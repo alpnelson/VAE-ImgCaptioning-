@@ -1,2 +1,1 @@
-# VAE-ImgCaptioning-
-Variational Image Captioning Using Deterministic Attention Implementation.
+# Variational Image Captioning Using Deterministic Attention Implementation.
